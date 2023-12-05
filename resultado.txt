@@ -1,0 +1,4 @@
+El ATTR promedio obtenido fue:  a2tr 
+------
+    1
+(1 row)
